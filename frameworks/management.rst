@@ -638,7 +638,7 @@ phases:
 #. Then, *deployment* applies needed finalization to the configuration (e.g. to
    auto-enumerate ports) and, assuming all needed instances have peered,
    distributes the configuration to their agents. Deployment replaces any
-   pre-existing Zeek cluster, shutting down the existing node processes. The
+   preexisting Zeek cluster, shutting down the existing node processes. The
    controller also persists the deployed configuration to disk, alongside the
    staged one. Deployment does *not* need to be successful to preserve a
    deployed configuration: it's the attempt to deploy that matters.
