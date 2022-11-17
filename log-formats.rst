@@ -388,7 +388,7 @@ possibilities once we enable an alternative output format.
 Zeek JSON Format Logs
 =====================
 
-During the last decade, the Javascript Object Notation (JSON) format has become
+During the last decade, the JavaScript Object Notation (JSON) format has become
 a standard way to label and store many types of data. Zeek offers support for
 this format. In the following example we will re-run the :file:`tm1t.pcap` trace
 through Zeek, but request that it output logs in JSON format.
