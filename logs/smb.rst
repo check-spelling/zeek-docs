@@ -1199,7 +1199,7 @@ layer of the decode we want to see.
                   .... .... .... .... .... ..0. .... .... = Tenth: Tenth is NOT SET
                   .... .... .... .... .... .0.. .... .... = Eleventh: Eleventh is NOT SET
                   .... .... .... .... .... 0... .... .... = Twelfth: Twelfth is NOT SET
-                  .... .... .... .... ...0 .... .... .... = Thitteenth: Thitteenth is NOT SET
+                  .... .... .... .... ...0 .... .... .... = Thirteenth: Thirteenth is NOT SET
                   .... .... .... .... ..0. .... .... .... = Fourteenth: Fourteenth is NOT SET
                   .... .... .... .... .0.. .... .... .... = Fifteenth: Fifteenth is NOT SET
                   .... .... .... .... 0... .... .... .... = Sixteenth: Sixteenth is NOT SET
