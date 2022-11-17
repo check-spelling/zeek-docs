@@ -632,7 +632,7 @@ phases:
    --- persists this configuration to disk. Restarting the controller at this
    point will preserve this configuration in its staged state. Validation checks
    the configuration for consistency and structural errors, such as doubly
-   defind nodes, port collisions, or inconsistent instance use. The controller
+   defined nodes, port collisions, or inconsistent instance use. The controller
    only ever stores a single staged configuration.
 
 #. Then, *deployment* applies needed finalization to the configuration (e.g. to
