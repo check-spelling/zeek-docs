@@ -485,7 +485,7 @@ Zeek JSON Format and :program:`jq`
 
 Analysts sometimes choose to inspect JSON-formatted Zeek files using
 applications that recognize JSON format, such as :program:`jq`,  which is a
-JSON parser by Stephen Dolan, available at Github
+JSON parser by Stephen Dolan, available at GitHub
 (https://stedolan.github.io/jq/). It may already be installed on your Unix-like
 system.
 
