@@ -82,7 +82,7 @@ Agent
 Management agents implement instance-level cluster management tasks. Every
 instance participating in cluster management runs an agent. Agents peer with the
 controller to receive instructions (a node restart, say), carry them out, and
-respond with the outcomme. The direction of connection establishment for the
+respond with the outcome. The direction of connection establishment for the
 peering depends on configuration and can go either way (more on this below); by
 default, agents connect to the controller.
 
