@@ -1208,7 +1208,7 @@ layer of the decode we want to see.
                   .... .... .... .0.. .... .... .... .... = Nineteenth: Nineteenth is NOT SET
                   .... .... .... 0... .... .... .... .... = Twentieth: Twentieth is NOT SET
                   .... .... ...0 .... .... .... .... .... = Twenty-first: Twenty-first is NOT SET
-                  .... .... ..0. .... .... .... .... .... = Twentysecond: Twentysecond is NOT SET
+                  .... .... ..0. .... .... .... .... .... = Twenty-second: Twenty-second is NOT SET
                   .... .... .0.. .... .... .... .... .... = Twentythird: Twentythird is NOT SET
                   .... .... 0... .... .... .... .... .... = Twenty-fourth: Twenty-fourth is NOT SET
                   .... ...0 .... .... .... .... .... .... = Twenty-fifth: Twenty-fifth is NOT SET
