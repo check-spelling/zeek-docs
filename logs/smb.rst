@@ -1217,7 +1217,7 @@ layer of the decode we want to see.
                   .... 0... .... .... .... .... .... .... = Twentyeighth: Twentyeighth is NOT SET
                   ...0 .... .... .... .... .... .... .... = Twentyninth: Twentyninth is NOT SET
                   ..0. .... .... .... .... .... .... .... = Thirtieth: Thirtieth is NOT SET
-                  .0.. .... .... .... .... .... .... .... = Thirtyfirst: Thirtyfirst is NOT SET
+                  .0.. .... .... .... .... .... .... .... = Thirty-first: Thirty-first is NOT SET
               Days Of Week: 0x00: (No values set)
                   .... ...0 = DAYSOFWEEK MONDAY: DAYSOFWEEK_MONDAY is NOT SET
                   .... ..0. = DAYSOFWEEK TUESDAY: DAYSOFWEEK_TUESDAY is NOT SET
