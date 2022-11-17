@@ -192,7 +192,7 @@ provide a hex and ASCII output at the end.
   0030  00 3e de 95 00 00 **48 54 54** 50 2f 31 2e 31 20 34   .>....**HTT**P/1.1 4
   0040  30 30 20 42 61 64 20 52 65 71 75 65 73 74 0d 0a   00 Bad Request..
   0050  44 61 74 65 3a 20 54 68 75 2c 20 31 30 20 44 65   Date: Thu, 10 De
-  0060  63 20 32 30 32 30 20 30 32 3a 34 34 3a 32 34 20   c 2020 02:44:24
+  0060  63 20 32 30 32 30 20 30 32 3a 34 34 3a 32 34 20   c 2020 02:44:24 
   0070  47 4d 54 0d 0a 53 65 72 76 65 72 3a 20 41 70 61   GMT..Server: Apa
   0080  63 68 65 0d 0a 43 6f 6e 74 65 6e 74 2d 4c 65 6e   che..Content-Len
   0090  67 74 68 3a 20 33 30 31 0d 0a 43 6f 6e 6e 65 63   gth: 301..Connec
@@ -201,7 +201,7 @@ provide a hex and ASCII output at the end.
   00c0  68 74 6d 6c 3b 20 63 68 61 72 73 65 74 3d 69 73   html; charset=is
   00d0  6f 2d 38 38 35 39 2d 31 0d 0a 0d 0a 3c 21 44 4f   o-8859-1....<!DO
   00e0  43 54 59 50 45 20 48 54 4d 4c 20 50 55 42 4c 49   CTYPE HTML PUBLI
-  00f0  43 20 22 2d 2f 2f 49 45 54 46 2f 2f 44 54 44 20   C "-//IETF//DTD
+  00f0  43 20 22 2d 2f 2f 49 45 54 46 2f 2f 44 54 44 20   C "-//IETF//DTD 
   0100  48 54 4d 4c 20 32 2e 30 2f 2f 45 4e 22 3e 0a 3c   HTML 2.0//EN">.<
   0110  68 74 6d 6c 3e 3c 68 65 61 64 3e 0a 3c 74 69 74   html><head>.<tit
   0120  6c 65 3e 34 30 30 20 42 61 64 20 52 65 71 75 65   le>400 Bad Reque
