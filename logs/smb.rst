@@ -1212,7 +1212,7 @@ layer of the decode we want to see.
                   .... .... .0.. .... .... .... .... .... = Twentythird: Twentythird is NOT SET
                   .... .... 0... .... .... .... .... .... = Twenty-fourth: Twenty-fourth is NOT SET
                   .... ...0 .... .... .... .... .... .... = Twenty-fifth: Twenty-fifth is NOT SET
-                  .... ..0. .... .... .... .... .... .... = Twentysixth: Twentysixth is NOT SET
+                  .... ..0. .... .... .... .... .... .... = Twenty-sixth: Twenty-sixth is NOT SET
                   .... .0.. .... .... .... .... .... .... = Twenty-seventh: Twenty-seventh is NOT SET
                   .... 0... .... .... .... .... .... .... = Twenty-eighth: Twenty-eighth is NOT SET
                   ...0 .... .... .... .... .... .... .... = Twenty-ninth: Twenty-ninth is NOT SET
